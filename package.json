@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "mysql2": "^3.9.2",
+    "nodemon": "^3.1.0"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  }
+}
